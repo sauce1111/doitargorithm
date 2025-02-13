@@ -17,7 +17,7 @@ public class BOJ11720 {
         char[] cNum = sNum.toCharArray();
         int sum = 0;
 
-        for (int i=0; i<cNum.length; i++) {
+        for (int i=0; i<N; i++) {
             sum += cNum[i] - '0';
         }
         System.out.println(sum);
