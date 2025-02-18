@@ -3,7 +3,7 @@ package datastructure;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class BOJ1974 {
+public class BOJ1874 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
